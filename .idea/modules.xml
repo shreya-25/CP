@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codeforces_files.iml" filepath="$PROJECT_DIR$/codeforces_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number theory/number theory.iml" filepath="$PROJECT_DIR$/number theory/number theory.iml" />
     </modules>
   </component>
 </project>
